@@ -52,7 +52,8 @@ a{
 .nav-link{
     font-size: 1.2rem;
     font-family: "Montserrat";
-    font-weight: 400;
+    font-weight: 500;
+    color: black;
 }
 /*Title-section*/
 #title .container-fluid{
