@@ -1,0 +1,117 @@
+body{
+    font-family: "Montserrat";
+    text-align: center;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: "Montserrat";
+    font-weight: bold;
+}
+
+p{
+    color: #8f8f88;
+}
+a{
+    color: black;
+}
+.a:hover{
+    color: #8f8f88;
+}
+.colored-section{
+    color: #fff;
+}
+/* Heading section*/
+.big-heading{
+    font-family: 'Playfair Display', serif;
+    font-size: 3.5rem;  
+    line-height: 2;
+    font-weight: 400;
+}
+.section-heading{
+    font-size: 2.5rem;
+    line-height: 1.5;
+}
+/*Sections*/
+
+/* Container fuild  section*/
+.container-fluid{
+    padding: 15%  7%;
+    background-size: cover;
+    background-position: bottom;
+}
+
+/*Navbar section*/
+.logo-img{
+    border-radius: 20%;
+}
+.navbar{
+    padding: 0 0 4.5rem;
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: "Montserrat";
+    font-weight: 400;
+}
+/*Title-section*/
+#title .container-fluid{
+    padding: 3% 15% 7%;
+}
+
+/*Feature*/
+#features{
+    background-color: #fff;
+    position: relative;
+}
+
+.feature-title{
+    font-size: 1.5rem;
+}
+.icon{
+    color: #f6e3ba;
+    margin-bottom: 1rem;
+}
+.icon:hover{
+    color: #dfcaa0;
+}
+/*Testimonials*/
+.carousel .container-fluid{
+    padding: 0;
+}
+#testimonials{
+    background-color: #fff;
+}
+.testiimonial-img{
+    width: fit-content;
+    padding: 0%;
+}
+/*Product section*/
+#product{
+    padding: 5% 5%;
+}
+.product-name{
+    font-family: 'Playfair Display', serif;
+    font-size: 2rem;
+    line-height: 1.5;
+    color: black;
+}
+.product-heading{
+    padding: 3% 5%;
+}
+/* footer section*/
+
+#cta{
+    background-color: #f6e3ba;
+    padding: 7% 15%;
+}
+.cta-heading{
+    font-family: 'Playfair Display', serif;
+    padding: 5%;
+}
+.social-icon{
+    padding: 20px 10px;
+}
+.social-icon:hover{
+    color: #8f8f88;
+}
